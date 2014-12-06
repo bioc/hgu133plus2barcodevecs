@@ -1,12 +1,9 @@
 Package: hgu133plus2barcodevecs
 Title: hgu133plus2 data for barcode
-Version: 1.5.0
+Version: 1.5.1
 Author: Matthew N. McCall <mmccall@jhsph.edu>, Rafael A. Irizarry <rafa@jhu.edu>
 Description: Data used by the barcode package for microarrays of type hgu133plus2.
 Maintainer: Matthew N. McCall <mmccall@jhsph.edu>
 Depends: R (>= 2.10.0)
 License: GPL (>= 2)
-biocViews: AnnotationData, AffymetrixChip, hgu133plus2, Homo_sapiens
-
-
-
+biocViews: Homo_sapiens_Data, MicroarrayData
